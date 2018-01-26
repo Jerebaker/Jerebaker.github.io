@@ -87,6 +87,7 @@ ul.social-icons {
     border-radius: 50%;
     opacity: 0.9;
     margin: 5px;
+    margin-right: 45px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -117,6 +118,7 @@ ul.social-icons {
     border-radius: 50%;
     opacity: 0.9;
     margin: 5px;
+    margin-right: 45px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;

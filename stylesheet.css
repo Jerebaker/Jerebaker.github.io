@@ -88,7 +88,7 @@ ul.social-icons {
     border-radius: 50%;
     opacity: 0.9;
     margin: 5px;
-    margin-right: 45px;
+    margin-right: 0px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -106,7 +106,7 @@ ul.social-icons {
     border-radius: 50%;
     opacity: 0.9;
     margin: 5px;
-    margin-right: 45px;
+    margin-right: 0px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -124,6 +124,7 @@ ul.social-icons {
     border-radius: 50%;
     opacity: 0.9;
     margin: 5px;
+    margin-right: 0px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -133,5 +134,22 @@ ul.social-icons {
 }
 .fa-linkedin:hover {
     background-color: #0077B5;
+    color: white;
+}
+.fa-etsy {
+    color: black;
+    padding:18px 22px;
+    border-radius: 50%;
+    opacity: 0.9;
+    margin: 5px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: rgba(0,0,0,0);
+}
+.fa-etsy:hover {
+    background-color: #eb6d20;
     color: white;
 }

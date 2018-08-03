@@ -88,7 +88,7 @@ ul.social-icons {
     border-radius: 50%;
     opacity: 0.9;
     margin: 5px;
-    margin-right: 45px;
+    margin-right: 0px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -98,6 +98,7 @@ ul.social-icons {
 }
 .fa-envelope:hover {
     background-color: #00DBE8;
+    color: white;
 }
 .fa-behance {
     color: black;
@@ -105,7 +106,7 @@ ul.social-icons {
     border-radius: 50%;
     opacity: 0.9;
     margin: 5px;
-    margin-right: 45px;
+    margin-right: 0px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -115,8 +116,27 @@ ul.social-icons {
 }
 .fa-behance:hover {
     background-color: #053eff;
+    color: white;
 }
 .fa-linkedin {
+    color: black;
+    padding:18px 22px;
+    border-radius: 50%;
+    opacity: 0.9;
+    margin: 5px;
+    margin-right: 0px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: rgba(0,0,0,0);
+}
+.fa-linkedin:hover {
+    background-color: #0077B5;
+    color: white;
+}
+.fa-etsy {
     color: black;
     padding:18px 22px;
     border-radius: 50%;
@@ -129,6 +149,7 @@ ul.social-icons {
     transition: .5s;
     background-color: rgba(0,0,0,0);
 }
-.fa-linkedin:hover {
-    background-color: #0077B5;
+.fa-etsy:hover {
+    background-color: #eb6d20;
+    color: white;
 }
